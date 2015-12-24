@@ -2,7 +2,7 @@
 
 This repository contains the R code as well documentation files for the course: “Getting and Cleaning Data ”.   
 
-Files
+Files:
 
 The data is provide under the course project: 
 
